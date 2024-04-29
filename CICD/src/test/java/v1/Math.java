@@ -28,6 +28,6 @@ public class Math {
 		System.out.println("Data");
 		System.out.println("H");
 		System.out.println("Moto");
-		System.out.println(mul(12,29));
+		System.out.println("Mul value"+mul(12,29));
 	}
 }
