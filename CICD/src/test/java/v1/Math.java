@@ -18,8 +18,8 @@ public class Math {
 		return a*b;
 	}
       public int addTwoNos(){
-System.out.println("change");
-}
+      System.out.println("change");
+       }
 	
 	
 
