@@ -31,15 +31,7 @@ public class Math {
 		System.out.println("Sub value"+sub(12, 2));
 		System.out.println("Hello World");
 		System.out.println("Data");
-		System.out.println("H");
-		System.out.println("Moto");
-		System.out.println("Mul value"+mul(12,29));
-                System.out.println("Victory");
-		System.out.println("Victoryy");
-                System.out.println("demo");
-                System.out.println("Pipeleine");
-                System.out.println("Dev Code");
-                System.out.println("try");
+		System.out.println("Hercules");
 
 	}
 }
