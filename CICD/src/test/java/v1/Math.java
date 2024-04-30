@@ -31,7 +31,7 @@ public class Math {
 		System.out.println("Sub value"+sub(12, 2));
 		System.out.println("Hello World");
 		System.out.println("Data");
-		System.out.println("Hercules");
+		System.out.println("Hercules1");
 
 	}
 }
