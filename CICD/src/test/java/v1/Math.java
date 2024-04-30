@@ -17,9 +17,11 @@ public class Math {
 	{
 		return a*b;
 	}
+
+	
       public int addTwoNos(){
-System.out.println("change");
-}
+      System.out.println("change");
+       }
 	
 	
 
@@ -33,5 +35,7 @@ System.out.println("change");
 		System.out.println("Moto");
 		System.out.println("Mul value"+mul(12,29));
                 System.out.println("Victory");
+		System.out.println("Victoryy")
+
 	}
 }
