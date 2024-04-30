@@ -19,7 +19,7 @@ public class Math {
 	}
 
 	
-      public int addTwoNos(){
+      public void addTwoNos(){
       System.out.println("change");
        }
 	
