@@ -34,6 +34,6 @@ public class Math {
 		System.out.println("H");
 		System.out.println("Moto");
 		System.out.println("Mul value"+mul(12,29));
-		System.out.println("Victory")
+		System.out.println("Victoryy")
 	}
 }
