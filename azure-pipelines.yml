@@ -15,6 +15,9 @@ steps:
     mavenPomFile: 'pom.xml'
     mavenOptions: '-Xmx3072m'
     javaHomeOption: 'JDKVersion'
+    mavenVersionOption: Path
+    mavenDirectory: ' C:\Users\ashish.juyal\Downloads\apache-maven-3.8.5'
+    mavenSetM2Home: true
     jdkVersionOption: '1.8'
     jdkArchitectureOption: 'x64'
     publishJUnitResults: true
